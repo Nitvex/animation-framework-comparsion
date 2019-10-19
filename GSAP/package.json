@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "browserify ./src.js -o ./bundle.js"
   },
-  "author": "",
+  "author": "Nitvex",
   "license": "ISC",
   "dependencies": {
     "gsap": "^2.1.3"
